@@ -123,3 +123,5 @@ class app:
 
 Runner = app()
 Runner.menu()
+
+print("Arreglo Agregado")
